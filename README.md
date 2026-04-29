@@ -70,8 +70,8 @@
 
 🤝 Connect with Me
 
-- 💼 LinkedIn: (Add your link here)
-- 📧 Email: (Add your email here)
+- 💼 LinkedIn: soon 
+- 📧 Email: Rizwanshah8588@gmail.com
 
 ---
 
