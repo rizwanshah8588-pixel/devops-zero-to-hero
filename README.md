@@ -1,4 +1,4 @@
-👋 Hi, I'm Rizwan Shah   
+|| --- 👋 Hi, I'm Rizwan Shah  --- ||
 
 ![DevOps GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
