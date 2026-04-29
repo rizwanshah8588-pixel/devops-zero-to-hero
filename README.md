@@ -5,8 +5,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00R7XO&center=true&vCenter=true&width=600&lines=DevOps+Engineer+in+Progress...;Cloud+%2B+Automation+Enthusiast;Learning+AWS+%7C+Docker+%7C+Kubernetes" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+in+Progress...;Cloud+%2B+Automation+Enthusiast;Learning+AWS+%7C+Docker+%7C+Kubernetes" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwanshah8588-pixel&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanshah8588-pixel&theme=tokyonight" />
+</p>
 
 🚀 Aspiring DevOps Engineer | Learning & Building Every Day
 
