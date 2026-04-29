@@ -1,4 +1,6 @@
-👋 Hi, I'm Rizwan Shah
+👋 Hi, I'm Rizwan Shah   
+
+https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
 
 🚀 Aspiring DevOps Engineer | Learning & Building Every Day
 
