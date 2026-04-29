@@ -3,7 +3,10 @@
 ![DevOps GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7DF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+in+Progress...;Cloud+%2B+Automation+Enthusiast;Learning+AWS+%7C+Docker+%7C+Kubernetes" />
+
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+in+Progress...;Cloud+%2B+Automation+Enthusiast;Learning+AWS+%7C+Docker+%7C+Kubernetes" />
+
 
 🚀 Aspiring DevOps Engineer | Learning & Building Every Day
 
@@ -13,7 +16,7 @@
 
 - 🎯 Goal: Become a skilled DevOps Engineer
 - 📚 Currently learning DevOps tools and cloud technologies
-- 💡 Interested in automation, cloud infrastructure, and CI/CD
+- 💡 Interested in automation, cloud infrastructure, and CI/CD   
 - 🔄 Consistently improving step by step
 
 ---
